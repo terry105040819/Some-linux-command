@@ -1,0 +1,4 @@
+#Setup linux environment 
+gedit ~/bashrc
+export PATH=$PATH:{goal directory} #save
+source ~/.bashrc
