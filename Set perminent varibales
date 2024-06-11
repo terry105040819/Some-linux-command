@@ -5,4 +5,4 @@ source ~/.bashrc
 
 #Setup MacOS environment
 export PATH="/path/to/app/executable/file/directory:$PATH"
-export PATH="/path/to/app/executable/file/directory:$PATH
+export PATH="/path/to/app/executable/file/directory:$PATH"
